@@ -68,5 +68,5 @@ A list of talks given at CocoaHeads Kraków Meetups.
 ###CocoaHeads Kraków #16
 * [Ways to improve your architecture](http://files.meetup.com/7171412/WaysToImproveArchitecture.pdf) by (Marek
  Mościchowski)
-* A talk on designing more attractive APIs with Swift to escape building deep-nested branch hierarchies to unwrap optionals *unknown* by Marius Rackwitz
+* [Swift?! - Alternatives to Optionals](https://speakerdeck.com/marius/swift-alternatives-to-optionals) by Marius Rackwitz
 
